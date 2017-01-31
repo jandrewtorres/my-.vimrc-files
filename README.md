@@ -3,7 +3,7 @@
 ### Description
 This repository is my ~/.vim/ftplugin/ folder.
 
-These are bare-bones .vimrc files. No fancy external plugins, just what you need!
+These are bare-bones .vimrc files. No fancy external plugins, just what you need. My rule with .vimrc files is <b>Don't put any lines in your vimrc that you don't understand.</b> This is a good starting point.
 
 ### How to set up
 If your not familiar with ftplugin, it is a built-in plugin available to vim 
